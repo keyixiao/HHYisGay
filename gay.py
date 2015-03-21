@@ -1,0 +1,2 @@
+class HHY(object):
+    pass
